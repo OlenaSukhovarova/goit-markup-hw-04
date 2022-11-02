@@ -384,7 +384,6 @@ width: 696px;
     padding: 0px;
 }
 .portfolio-item {
-    /* box-sizing: border-box; */
     flex-basis: calc((100% - 30px * 2) / 3);
 }
 .portfolio-item-link {
